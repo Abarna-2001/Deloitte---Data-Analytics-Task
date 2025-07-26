@@ -9,7 +9,7 @@ This virtual job simulation, hosted by Deloitte Australia on Forage, provided ha
 
 ## Tasks Completed
 
-### 1. Factory Downtime Analysis using Tableau
+### Task 1. Factory Downtime Analysis using Tableau
 - Imported and analyzed telemetry data in Tableau to identify machine health status across factories.
 - Created a calculated field called **“Unhealthy”** to mark unhealthy status logs as 10-minute downtime events.
 - Built a **“Down Time per Factory”** bar chart and a **“Down Time per Device Type”** chart.
@@ -19,7 +19,7 @@ This virtual job simulation, hosted by Deloitte Australia on Forage, provided ha
 - `In which location did machines break the most?`
 - `What are the machines that broke most often in that location?`
 
-### 2. Gender Pay Equality Classification in Excel
+### Task 2. Gender Pay Equality Classification in Excel
 - Worked with an `Equality Table.xlsx` containing Factory, Job Role, and Equality Score fields.
 - Created a new column **“Equality Class”** using logical Excel formulas to classify scores into:
   - **Fair** (±10)
@@ -34,12 +34,6 @@ This virtual job simulation, hosted by Deloitte Australia on Forage, provided ha
 - Microsoft Excel  
 - Data Analysis
 - Data Modeling
-
----
-
-## Certificate of Completion
-
-Certificate available upon Completing the tasks with few resume and interview tips.
 
 ---
 
