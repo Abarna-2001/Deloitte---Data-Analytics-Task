@@ -1,4 +1,4 @@
-# Deloitte Australia – Data Analytics Virtual Job Simulation (Forage)
+# Deloitte Australia – Data Analytics Job Simulation (Forage)
 ---
 
 ## Overview
